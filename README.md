@@ -1,31 +1,28 @@
 # app-dev
 My first repository.
-# My Favorite Series: Avatar: The Last Airbender
+
+# My Favorite Marvel Series: Loki
 
 ## Why I love it
-Avatar: The Last Airbender is one of my favorite series because it combines:
-- adventure
-- humor
-- strong character development
-- meaningful lessons
+*Loki* is one of my favorite Marvel series because it mixes superhero action, humor, and time-travel mysteries. It also explores what makes Loki more than just a villain.
 
-## Main characters
-- Aang
-- Katara
-- Zuko
-- Toph
+## Favorite characters
+- Loki
+- Mobius M. Mobius
+- Sylvie
+- Miss Minutes
 
-## Favorite quote
-> "It is important to draw wisdom from many different places."
+## Favorite moment
+> Loki choosing to stand up for his friends and take responsibility for the timelines.
 
 ## My rating
 ⭐️⭐️⭐️⭐️⭐️
 
 ## Fun fact
-The series has a rich world with different nations, each inspired by real-world cultures and philosophies.
+The series introduces the Time Variance Authority (TVA), an organization that monitors branching timelines in the Marvel Cinematic Universe.
 
-## List of what I enjoy most
-1. The action scenes
-2. The emotional storylines
-3. The friendships and teamwork
-4. The soundtrack
+## What I enjoy most
+1. The surprising plot twists
+2. The funny conversations between Loki and Mobius
+3. The imaginative look of the TVA
+4. The themes of identity, friendship, and making your own choices
